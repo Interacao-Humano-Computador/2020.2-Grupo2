@@ -1,3 +1,7 @@
+# Repositório da Equipe 2
+
+<a href="https://Interacao-Humano-Computador.github.io/2020.2-Grupo2/" target="_blank">Clique aqui</a> para acessar a versão disponível mais recente da nossa documentação.
+
 ### Requisitos para o projeto
 
 Você deve ter `Python 3.8`, `Pip 20.2` e `virtualenv` instalado na sua máquina.
