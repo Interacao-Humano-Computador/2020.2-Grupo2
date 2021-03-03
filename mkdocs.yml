@@ -1,0 +1,24 @@
+site_name: PROJETO DE IHC - EQUIPE 2
+
+nav: 
+  - Início: index.md
+  - Processo de Design: processo_de_design.md
+  - Apresentações: 
+      - 05/03/2021: presentations/05_03_2021.md
+
+theme:
+  name: material
+  language: en
+  font:
+    text: Ubuntu
+    code: Ubuntu Mono
+
+extra_css: [_extra/extra.css]
+
+repo_name: Me-Adota/docs
+repo_url: https://github.com/Me-Adota/docs
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/Me-Adota
