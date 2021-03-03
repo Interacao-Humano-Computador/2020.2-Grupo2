@@ -85,4 +85,18 @@ Essa repositório contém toda a documentação disponível para o projeto que f
             <a href="https://github.com/fealps" target="_blank">@fealps</a>
         </td>
     </tr>
+    <tr>
+        <td>
+            <img src="https://github.com/irwinschmitt.png" alt="drawing" style="width: 100px;border-radius: 50%;"/>
+        </td>
+        <td style="padding-top: 50px;">
+            Irwin Schmitt
+        </td>
+        <td style="padding-top: 50px;">
+            17/0105342
+        </td>
+        <td style="padding-top: 50px;">
+            <a href="https://github.com/irwinschmitt" target="_blank">@irwinschmitt</a>
+        </td>
+    </tr>
 </table>
