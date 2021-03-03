@@ -15,10 +15,10 @@ theme:
 
 extra_css: [_extra/extra.css]
 
-repo_name: Me-Adota/docs
-repo_url: https://github.com/Me-Adota/docs
+repo_name: Interacao-Humano-Computador/2020.2-Grupo2
+repo_url: https://github.com/Interacao-Humano-Computador/2020.2-Grupo2
 
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/Me-Adota
+      link: https://github.com/Interacao-Humano-Computador/2020.2-Grupo2
