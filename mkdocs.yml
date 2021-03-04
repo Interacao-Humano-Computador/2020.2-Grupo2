@@ -2,16 +2,17 @@ site_name: PROJETO DE IHC - EQUIPE 2
 
 nav: 
   - Início: index.md
+  - Cronograma: cronograma.md
   - Processo de Design: processo_de_design.md
   - Apresentações: 
       - 05/03/2021: presentations/05_03_2021.md
 
 theme:
   name: material
-  language: en
-  font:
-    text: Ubuntu
-    code: Ubuntu Mono
+  language: pt
+  # font:
+  #   text: Ubuntu
+  #   code: Ubuntu Mono
 
 extra_css: [_extra/extra.css]
 
