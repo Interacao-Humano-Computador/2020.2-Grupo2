@@ -1,4 +1,4 @@
-# PROJETO DE IHC - EQUIPE 2
+# MPU- EQUIPE 2
 
 ## Sobre esta documentação
 Essa repositório contém toda a documentação disponível para o projeto que foi realizado na disciplina de **Interação Humano Computador**, ministrada na **Universidade de Brasília** (FGA) pelo professor **André Barros de Sales**.
