@@ -17,7 +17,7 @@ Essa repositório contém toda a documentação disponível para o projeto que f
     </tr>
     <tr>
         <td>
-            <img src="https://github.com/joseguilhermefmoura.png" alt="drawing" style="width: 100px;border-radius: 50%;"/>
+            <img src="https://github.com/joseguilherme-dev.png" alt="drawing" style="width: 100px;border-radius: 50%;"/>
         </td>
         <td style="padding-top: 50px;">
             José Guilherme Fernandes Moura
@@ -26,7 +26,7 @@ Essa repositório contém toda a documentação disponível para o projeto que f
             18/0020471
         </td>
         <td style="padding-top: 50px;">
-            <a href="https://github.com/joseguilhermefmoura" target="_blank">@joseguilhermefmoura</a>
+            <a href="https://github.com/joseguilherme-dev" target="_blank">@joseguilherme-dev</a>
         </td>
     </tr>
     <tr>
