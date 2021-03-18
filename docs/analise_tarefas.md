@@ -6,10 +6,11 @@ Segundo Barbosa e Silva (2010), uma análise de tarefas é utilizada para se ter
 Em IHC, a análise de tarefas pode ser utilizada nas três atividades habituais: para análise da situação atual (apoiada ou não por um sistema computacional), para o (re)design de um sistema computacional ou para a avaliação do resultado de uma intervenção que inclua a introdução de um (novo) sistema computacional. Quando visa a avaliar um sistema computacional existente, a análise de tarefas pode ser bem concreta, descrevendo o comportamento de forma detalhada. 
 
 ## 1. Análise Hierárquica de Tarefas (HTA – Hierarchical Task Analysis)
+A análise hierárquica de tarefas, segundo Barbosa e Silva (2010), examina primeiramente os objetivos de alto nível (por exemplo, marcar uma reunião), decompondo-os em subobjetivos (por exemplo, decidir a data, decidir o  local, convidar  os  participantes  etc.), buscando  identificar quais subobjetivos são  mais difíceis de atingir (ou que geram mais erros) e que, portanto, limitam ou mesmo impedem o atingimento do objetivo maior. No  nível mais baixo da hierarquia de  objetivos, cada subobjetivo é  alcançado por uma operação, que é a unidade fundamental em HTA
 
 ### 1.1 Visualização de concursos internos e externos
 
-![diagramaHTA](assets\hta_visualizar_concursos.png)
+![diagramaHTA](assets/hta_visualizar_concursos.png)
 *Figura 1: Diagrama HTA, para o objetivo de visualizar concursos internos e externos.*
 
 | Objetivos/Operações | Problemas e Recomendações | 
@@ -24,3 +25,4 @@ Em IHC, a análise de tarefas pode ser utilizada nas três atividades habituais:
 | Data | Versão | Descrição | Autor(es) |
 | :----: | :----: | :----: | :----: |
 | 16/03/2021 | 0.0 | Criação do documento | [Matheus Clemente](https://github.com/matheusclemente) |
+| 18/03/2021 | 0.1 | HTA visualização de concursos | [Matheus Clemente](https://github.com/matheusclemente) |
