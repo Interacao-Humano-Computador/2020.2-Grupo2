@@ -29,50 +29,50 @@ O site escolhido é o do Ministério Público da União, disponível em: http://
 
 <div class="toolgrid">
 	<div>
-        <img height="300px" src="../../assets/questionarios/resp01.png"> 
+        <img height="300px" src="../assets/questionarios/resp01.png"> 
     </div>
 </div>
 
 <div class="toolgrid">
 	<div>
-        <img height="300px" src="../../assets/questionarios/resp02.png"> 
+        <img height="300px" src="../assets/questionarios/resp02.png"> 
     </div>
 </div>
 
 
 <div class="toolgrid">
 	<div>
-        <img height="300px" src="../../assets/questionarios/resp03.png"> 
+        <img height="300px" src="../assets/questionarios/resp03.png"> 
     </div>
 </div>
 
 <div class="toolgrid">
 	<div>
-        <img height="300px" src="../../assets/questionarios/resp04.png"> 
+        <img height="300px" src="../assets/questionarios/resp04.png"> 
     </div>
 </div>
 
 <div class="toolgrid">
 	<div>
-        <img height="300px" src="../../assets/questionarios/resp05.png"> 
+        <img height="300px" src="../assets/questionarios/resp05.png"> 
     </div>
 </div>
 
 <div class="toolgrid">
 	<div>
-        <img height="300px" src="../../assets/questionarios/resp06.png"> 
+        <img height="300px" src="../assets/questionarios/resp06.png"> 
     </div>
 </div>
 
 <div class="toolgrid">
 	<div>
-        <img height="300px" src="../../assets/questionarios/resp07.png"> 
+        <img height="300px" src="../assets/questionarios/resp07.png"> 
     </div>
 </div>
 
 <div class="toolgrid">
 	<div>
-        <img height="300px" src="../../assets/questionarios/resp08.png"> 
+        <img height="300px" src="../assets/questionarios/resp08.png"> 
     </div>
 </div>
 
@@ -81,19 +81,19 @@ O site escolhido é o do Ministério Público da União, disponível em: http://
 
 <div class="toolgrid">
 	<div>
-        <img height="300px" src="../../assets/questionarios/resp09.png"> 
+        <img height="300px" src="../assets/questionarios/resp09.png"> 
     </div>
 </div>
 
 <div class="toolgrid">
 	<div>
-        <img height="300px" src="../../assets/questionarios/resp10.png"> 
+        <img height="300px" src="../assets/questionarios/resp10.png"> 
     </div>
 </div>
 
 <div class="toolgrid">
 	<div>
-        <img height="300px" src="../../assets/questionarios/resp11.png"> 
+        <img height="300px" src="../assets/questionarios/resp11.png"> 
     </div>
 </div>
 
