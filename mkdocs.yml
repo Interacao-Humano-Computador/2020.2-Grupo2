@@ -4,9 +4,15 @@ nav:
   - Início: index.md
   - Cronograma: cronograma.md
   - Processo de Design: processo_de_design.md
-  - Análise de Tarefas: analise_tarefas.md
+  - Perfil do usuário:
+    - Questionário: questionarios.md
+    - Personas: personas.md
+    - Entrevistas: entrevistas.md
+  - Análise de tarefas:
+    - Análises: analise_tarefas.md
+    # - Planejamento: planejamento_analise_tarefas.md
   - Apresentações: 
-      - 05/03/2021: presentations/05_03_2021.md
+    - 05/03/2021: presentations/05_03_2021.md
 
 theme:
   name: material
