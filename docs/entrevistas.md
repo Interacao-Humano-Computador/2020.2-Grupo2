@@ -50,6 +50,7 @@ Segundo Seidman (1998), a entrevista é uma das técnicas mais utilizadas para a
 | :----: | :----: | :----: | :----: |
 | 16/03/2021 | 0.0 | Criação do documento | Lucas Lopes
 | 18/03/2021 | 1.0 | Atualização | Lucas, Iago |
+| 18/03/2021 | 1.1 | Entrevista 1 | Irwin |
 
 
 ## Referências
