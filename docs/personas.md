@@ -9,7 +9,7 @@
 ### **Douglas Costa**
 <div class="toolgrid">
 	<div>
-        <img align=left width="300" src="../assets/personas/douglas.jpg">
+        <img align=left width="300" src="assets/personas/douglas.jpg">
     </div>
     <div>
         <p align = "justify"> - Categoria: Persona primária;</p>
@@ -31,7 +31,7 @@
 ### **Júlia Kobayshi**
 <div class="toolgrid">
 	<div>
-        <img align=left width="300" src="../assets/personas/julia.jpg">
+        <img align=left width="300" src="assets/personas/julia.jpg">
     </div>
     <div>
         <p align = "justify"> - Categoria: Persona primária;</p>
@@ -52,7 +52,7 @@
 ### **Alexandre Gomez**
 <div class="toolgrid">
 	<div>
-        <img align=left width="300" src="../assets/personas/alexandre.jpg">
+        <img align=left width="300" src="assets/personas/alexandre.jpg">
     </div>
     <div>
         <p align = "justify"> - Categoria: Persona secundária;</p>
@@ -75,7 +75,7 @@
 ### **José Carvalho**
 <div class="toolgrid">
 	<div>
-        <img align=left width="300" src="../assets/personas/jose.jpg">
+        <img align=left width="300" src="assets/personas/jose.jpg">
     </div>
     <div>
         <p align = "justify"> - Categoria: Anti-persona primária;</p>
@@ -103,7 +103,7 @@
 | :----: | :----: | :----: | :----: |
 | 16/03/2021 | 0.0 | Criação do documento | Lucas Lopes
 | 18/03/2021 | 1.0 | Atualização | Lucas, Iago |
-
+| 19/03/2021 | 1.1 | Correção na exibição de imagens | Matheus |
 
 ## Referências
 
