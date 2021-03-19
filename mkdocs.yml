@@ -3,6 +3,8 @@ site_name: MPU
 nav: 
   - Início: index.md
   - Cronograma: cronograma.md
+  - Perfil do Usuário:
+      - Personas: personas.md
   - Processo de Design: processo_de_design.md
   - Apresentações: 
       - 05/03/2021: presentations/05_03_2021.md
