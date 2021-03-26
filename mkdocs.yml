@@ -13,8 +13,10 @@ nav:
     # - Planejamento: planejamento_analise_tarefas.md
   - Análise de requisitos:
     - Guia de estilo: guia-de-estilo.md
+    - Princípios e diretrizes: principios_gerais_diretrizes.md
   - Apresentações: 
     - 05/03/2021: presentations/05_03_2021.md
+  
 
 theme:
   name: material
