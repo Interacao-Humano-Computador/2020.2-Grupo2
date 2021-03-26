@@ -11,6 +11,8 @@ nav:
   - Análise de tarefas:
     - Análises: analise_tarefas.md
     # - Planejamento: planejamento_analise_tarefas.md
+  - Análise de requisitos:
+    - Guia de estilo: guia-de-estilo.md
   - Apresentações: 
     - 05/03/2021: presentations/05_03_2021.md
 
