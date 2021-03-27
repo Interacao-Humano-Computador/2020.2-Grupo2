@@ -12,8 +12,9 @@ nav:
     - Análises: analise_tarefas.md
     # - Planejamento: planejamento_analise_tarefas.md
   - Análise de requisitos:
-    - Guia de estilo: guia-de-estilo.md
     - Princípios e diretrizes: principios_gerais_diretrizes.md
+    - Metas de usabilidade: metas_usabilidade.md
+    - Guia de estilo: guia-de-estilo.md
   - Apresentações: 
     - 05/03/2021: presentations/05_03_2021.md
   
