@@ -7,26 +7,32 @@ Ainda sobre o trabalho de Nielsen, o autor define um total de seis metas de usab
 
 ### Eficácia
 Refere-se à capacidade do sistema de realizar o que se espera dele, de permitir a realização de tarefas e acesso a informações necessárias.
+
 - *Pergunta-chave:* O sistema serve ao propósito principal?
 - *Aplicação ao projeto:* O site do MPU possui informações referentes ao próprio ministério e a concursos realizados pelo mesmo.
 ### Eficiência
 Está diretamente ligada à velocidade com a qual um objetivo ou tarefa é realizado, e a quantidade de recursos gastos.
+
 - *Pergunta-chave:* Quantos recursos são utilizados para realizar a tarefa específica?
 - *Aplicação ao projeto:* Há vários links quebrados ao longo do site, a navegação é visualmente confusa, muitos arquivos só podem ser acessados através de download dos mesmos.
 ### Segurança
 Diz respeito à prevenção de erros e redução de riscos referentes a perda de dados em casos extremos, como queda do sistema.
+
 - *Pergunta-chave:* O sistema previne o usuário de erros ou ações indesejáveis? O sistema recupera as ações anteriores?
 - *Aplicação ao projeto:* Alguns links quebrados levam a páginas de erro genéricas que não fornecem informação relevante ao usuário. O navegador indica que a conexão com o site não é segura
 ### Utilidade
 Trata da capacidade do sistema de prover funções ao usuário que sejam esperadas em cada devido contexto, de forma a auxiliá-lo a cumprir seu objetivo.
+
 - *Pergunta-chave:* O sistema oferece ao usuário a funcionalidade certa segundo o contexto?
 - *Aplicação ao projeto:* Os menus de navegação são pouco organizados. A opção de busca apresenta um filtro, mas este não é intuitivo e parece implementado de forma incompleta, com opções de filtro que simplesmente não existem para uso.
 ### Aprendizagem
 Essa meta avalia a facilidade com a qual o usuário aprende a utilizar o sistema.
+
 - *Pergunta-chave:* É fácil aprender a usar?
 - *Aplicação ao projeto:* O site tem uma navegação ruim e visualmente confusa, o que leva o usuário a gastar mais tempo que o ideal para que se habitue e consiga acessar quaisquer informações de forma satisfatória.
 ### Memorização
-Vital para sistemas que são utlizados com frequência, essa meta avalia a capacidade de memorização do usuário quanto a como utilizar o sistema.  
+Vital para sistemas que são utlizados com frequência, essa meta avalia a capacidade de memorização do usuário quanto a como utilizar o sistema. 
+
 - *Pergunta-chave:* Que tipo de suporte é oferecido ao usuário para auxiliá-lo na realização das tarefas, especialmente os itens não recorrentes?
 - *Aplicação ao projeto:* Por mais dificultoso que o aprendizado seja, o fato do site possuir pouquíssimas funções contribui para a memorização dos passos necessários para a navegação. No caso de uma renovação/retrabalho do sistema, no entanto, esta seria uma meta importante a se rever.
 
