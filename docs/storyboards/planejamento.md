@@ -2,6 +2,9 @@
 
 ## Objetivo
 
+Storyboard é uma forma de pré-visualizar um projeto através de uma lista de cenas.
+
+
 ## Metodologia
 
 ## Versionamento
