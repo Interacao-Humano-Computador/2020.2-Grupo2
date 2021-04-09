@@ -10,7 +10,6 @@ nav:
     - Entrevistas: entrevistas.md
   - Análise de tarefas:
     - Análises: analise_tarefas.md
-    # - Planejamento: planejamento_analise_tarefas.md
   - Análise de requisitos:
     - Princípios e diretrizes: principios_gerais_diretrizes.md
     - Metas de usabilidade: metas_usabilidade.md
@@ -19,6 +18,9 @@ nav:
     - 05/03/2021: presentations/05_03_2021.md
     - 19/03/2021: presentations/19_03_2021.md
     - 26/03/2021: presentations/26_03_2021.md
+  - Storyboards:
+    - Planejamento dos Storyboards: storyboards/planejamento_storyboard.md
+    - '1. Visualização de convocados': storyboards/storyboard_1.md
   
 
 theme:
