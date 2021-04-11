@@ -8,20 +8,23 @@ nav:
     - Questionário: questionarios.md
     - Personas: personas.md
     - Entrevistas: entrevistas.md
-  - Análise de tarefas:
-    - Análises: analise_tarefas.md
   - Análise de requisitos:
     - Princípios e diretrizes: principios_gerais_diretrizes.md
     - Metas de usabilidade: metas_usabilidade.md
     - Guia de estilo: guia-de-estilo.md
+  - Análise de tarefas:
+    - Análises: analise_tarefas.md
+    - Planejamento: planejamento-tarefas.md
+  - Storyboards:
+    - 1. Visualização de convocados: storyboards/storyboard_1.md
+    - 2. Informação sobre remuneração de cargos: storyboards/storyboard_2.md
+    - 3. Visualizar concursos: storyboards/storyboard_3.md
+    - Planejamento dos Storyboards: storyboards/planejamento.md
   - Apresentações: 
     - 05/03/2021: presentations/05_03_2021.md
     - 19/03/2021: presentations/19_03_2021.md
     - 26/03/2021: presentations/26_03_2021.md
-  - Storyboards:
-    - Planejamento dos Storyboards: storyboards/planejamento.md
-    - '1. Visualização de convocados': storyboards/storyboard_1.md
-    - '2. Informação sobre remuneração de cargos': storyboards/storyboard_2.md
+    - 09/04/2021: presentations/09_04_2021.md
 
 theme:
   name: material

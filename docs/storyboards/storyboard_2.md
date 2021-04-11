@@ -43,5 +43,10 @@ As informações nessa página devem ser organizadas de uma maneira mais clara e
 
 | Data | Versão |           Descrição             |    Autor    |
 |:----:|:------:|:-------------------------------:|:-----------:|
-|08/04 |v0.1      |     Criação do Documento        | Iago Oliveira |
-|05/04 |v1.0      |     Criação do Storyboard       | Iago Oliveira  |
+|05/04 |1      |     Criação do Documento        | Iago Oliveira |
+|08/04 |2      |     Criação do Storyboard       | Iago Oliveira  |
+
+
+## Referências
+
+##### Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.

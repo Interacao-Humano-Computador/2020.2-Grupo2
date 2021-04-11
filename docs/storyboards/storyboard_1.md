@@ -34,14 +34,15 @@ As informações devem ser parseadas e melhor disponibilizadas para o usuário, 
 ##### autor: José Guilherme
 
 
-## Referências
-
-##### Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
-
 
 ## Versionamento
 
 | Data | Versão |           Descrição             |    Autor    |
 |:----:|:------:|:-------------------------------:|:-----------:|
-|06/04 |v0.1      |     Criação do Documento        | José Guilherme |
-|04/04 |v1.0      |     Criação do Storyboard       | José Guilherme  |
+|06/04 |1      |     Criação do Documento        | José Guilherme |
+|04/04 |2      |     Criação do Storyboard       | José Guilherme  |
+
+
+## Referências
+
+##### Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
