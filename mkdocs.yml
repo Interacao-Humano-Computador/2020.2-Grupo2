@@ -21,7 +21,7 @@ nav:
   - Storyboards:
     - Planejamento dos Storyboards: storyboards/planejamento.md
     - '1. Visualização de convocados': storyboards/storyboard_1.md
-  
+    - '2. Informação sobre remuneração de cargos': storyboards/storyboard_2.md
 
 theme:
   name: material
