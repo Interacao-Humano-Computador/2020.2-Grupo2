@@ -11,10 +11,12 @@
 
 
 ## Resultados 
-- <p><a href="../tarefa_1">Tarefa: Acessar Últimos Convocados de concurso</a></p>
-- <p><a href="../tarefa_2">Tarefa: Obter informação sobre Remuneração de servidores e comissionados </a></p>
-- <p><a href="../tarefa_3">Tarefa: Visualização de concursos e anteriores</a></p>
-
+<!-- - <p><a href="../tarefa_1">Tarefa: Acessar Últimos Convocados de concurso</a></p> -->
+<!-- - <p><a href="../tarefa_2">Tarefa: Obter informação sobre Remuneração de servidores e comissionados </a></p> -->
+<!-- - <p><a href="../tarefa_3">Tarefa: Visualização de concursos e anteriores</a></p> -->
+* Tarefa: Acessar Últimos Convocados de concurso
+* Tarefa: Obter informação sobre Remuneração de servidores e comissionados 
+* Tarefa: Visualização de concursos e anteriores
 
 ## Versionamento
 

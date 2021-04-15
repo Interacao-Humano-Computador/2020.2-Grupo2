@@ -34,6 +34,8 @@
 ## Storyboard:
 [![storyboard](../assets/storyboards/3.png)](../assets/storyboards/3.png) *FIgura 1: Storyboard feito com a ferramenta online StoryboardThat*
 
+##### autor: Matheus
+
 ## Histório de Revisões
 
 | Data | Versão | Descrição | Autor(es) |
