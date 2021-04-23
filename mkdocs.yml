@@ -22,6 +22,9 @@ nav:
     - Planejamento dos Storyboards: storyboards/planejamento.md
     - '1. Visualização de convocados': storyboards/storyboard_1.md
     - '2. Informação sobre remuneração de cargos': storyboards/storyboard_2.md
+  - Protótipos:
+    - 'Protótipos de Papel: Informação sobre Remuneração': prototipo_de_papel_inf.md
+    - 'Planejamento e avaliação dos protótipos de papel': plan_prot_de_papel.md
 
 theme:
   name: material
