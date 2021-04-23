@@ -14,10 +14,6 @@ nav:
     - Princípios e diretrizes: principios_gerais_diretrizes.md
     - Metas de usabilidade: metas_usabilidade.md
     - Guia de estilo: guia-de-estilo.md
-  - Apresentações: 
-    - 05/03/2021: presentations/05_03_2021.md
-    - 19/03/2021: presentations/19_03_2021.md
-    - 26/03/2021: presentations/26_03_2021.md
   - Storyboards:
     - Planejamento dos Storyboards: storyboards/planejamento.md
     - '1. Visualização de convocados': storyboards/storyboard_1.md
@@ -25,7 +21,11 @@ nav:
   - Protótipos:
     - 'Protótipos de Papel: Informação sobre Remuneração': prototipo_de_papel_inf.md
     - 'Planejamento e avaliação dos protótipos de papel': plan_prot_de_papel.md
-
+  - Apresentações: 
+    - 05/03/2021: presentations/05_03_2021.md
+    - 19/03/2021: presentations/19_03_2021.md
+    - 26/03/2021: presentations/26_03_2021.md
+    - 09/04/2021: presentations/09_04_2021.md
 theme:
   name: material
   language: pt
