@@ -32,10 +32,16 @@
 
 - Acesso rápido e eficaz a informações confiáveis sobre concursos para entrada no Ministério Público da União.
 ## Storyboard:
-[![storyboard](assets/storyboards/storyboard_conc.png)](assets/storyboards/storyboard_conc.png) *FIgura 1: Storyboard feito com a ferramenta online StoryboardThat*
+[![storyboard](../assets/storyboards/3.png)](../assets/storyboards/3.png) *FIgura 1: Storyboard feito com a ferramenta online StoryboardThat*
+
+##### autor: Matheus
 
 ## Histório de Revisões
 
 | Data | Versão | Descrição | Autor(es) |
 | --- | --- | --- | --- |
-| 09/04/2021 | 1.0 | Criação do documento e storyboard | Matheus Clemente |
+| 08/04/2021 | 1.0 | Criação do documento e storyboard | Matheus Clemente |
+
+## Referências
+
+##### Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
