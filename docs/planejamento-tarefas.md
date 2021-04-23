@@ -27,9 +27,9 @@ Ao final desse processo produzirmos os seguintes referências para os resultados
 
 
 
- <p><a href="/analise_tarefas/#obtencao-de-informacoes-gerais">Tarefa: Obtenção de informações gerais
+ <p><a href="../analise_tarefas/#obtencao-de-informacoes-gerais">Tarefa: Obtenção de informações gerais
 </a></p> 
- <p><a href="/analise_tarefas/#visualizacao-de-concursos-internos-e-externos">Tarefa: Visualização de concursos internos e externos
+ <p><a href="../analise_tarefas/#visualizacao-de-concursos-internos-e-externos">Tarefa: Visualização de concursos internos e externos
 </a></p> 
 ## Versionamento
 
