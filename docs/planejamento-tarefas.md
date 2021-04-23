@@ -11,19 +11,17 @@
 
 
 ## Resultados 
-<!-- - <p><a href="../tarefa_1">Tarefa: Acessar Últimos Convocados de concurso</a></p> -->
-<!-- - <p><a href="../tarefa_2">Tarefa: Obter informação sobre Remuneração de servidores e comissionados </a></p> -->
-<!-- - <p><a href="../tarefa_3">Tarefa: Visualização de concursos e anteriores</a></p> -->
-* Tarefa: Acessar Últimos Convocados de concurso
-* Tarefa: Obter informação sobre Remuneração de servidores e comissionados 
-* Tarefa: Visualização de concursos e anteriores
-
+ <p><a href="/analise_tarefas/#obtencao-de-informacoes-gerais">Tarefa: Obtenção de informações gerais
+</a></p> 
+ <p><a href="/analise_tarefas/#visualizacao-de-concursos-internos-e-externos">Tarefa: Visualização de concursos internos e externos
+</a></p> 
 ## Versionamento
 
 | Data | Versão |           Descrição             |    Autor    |
 |:----:|:------:|:-------------------------------:|:-----------:|
 |06/04 |1     |     Criação do Documento        | Irwin Schmitt |
 |07/04 |2     |     Atualização         | Lucas Lopes  |
+|23/04 |3     |     Complementação de resultados         | Lucas Lopes  |
 
 ## Referências
 - Livro: BARBOSA, S. D. J.; SILVA, B. S. Interação Humano-Computador. 1ª edição, Rio de Janeiro: Elsevier, 2010.
