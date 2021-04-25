@@ -1,7 +1,7 @@
 site_name: MPU
 
 nav: 
-- Início: index.md
+  - Início: index.md
   - Cronograma: cronograma.md
   - Processo de Design: processo_de_design.md
   - Perfil do usuário:
