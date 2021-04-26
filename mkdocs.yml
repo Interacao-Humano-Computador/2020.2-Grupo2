@@ -24,7 +24,9 @@ nav:
     - Protótipos de Papel:
       - Visualizar Concursos:  prototipos/prototipo_papel_concursos.md
       - Visualizar Cargos e Remuneração:  prototipos/prototipo_de_papel_inf.md
-    - Avaliação: prototipos/plan_prototipo_papel_concursos.md
+    - Avaliação:
+      - Visualizar Concursos:  prototipos/plan_prototipo_papel_concursos.md
+      - Visualizar Cargos e Remuneração:  prototipos/plan_prototipo_papel_cargos.md
   - Apresentações: 
     - 05/03/2021: presentations/05_03_2021.md
     - 19/03/2021: presentations/19_03_2021.md

@@ -12,7 +12,7 @@ Com no objetivo supracitado, são estabelecidas os questionamentos seguintes:
 ## Método de avaliação
 Foi escolhido o método de entrevista para a avaliação desse storyboard. Devido a restrições de tempo e disponibilidade, será utilizada uma persona como alvo da mencionada entrevista.
 ## Questões práticas
-A persona Júlia Kobayshi foi seleciona como alvo da entrevista, sendo uma persona com certa experiência na utilização do site.
+A** persona Júlia Kobayshi** foi seleciona como alvo da entrevista, sendo uma persona com certa experiência na utilização do site.
 ## Avaliação
 A entrevistada consegue realizar a tarefa descrita pelo Storyboard. Houve, no entanto, certa demora na execução, com a entrevistada indo e voltando entre páginas na procura dos detalhes sobre os concursos.
 ## Considerações Finais

@@ -1,6 +1,6 @@
 # Avaliação do Protótipo de Papel
 ## Objetivos da avaliação
-Esse documento busca avaliar o protótipo de papel produzido referente à tarefa "Visualizar Concursos".
+Esse documento busca avaliar o protótipo de papel produzido referente à tarefa "Visualizar Cargos e Remuneração".
 ## Perguntas a serem respondidas
 Afim de atingir o objetivo definido, são estabelecidas os questionamentos seguintes:
 
@@ -11,9 +11,9 @@ Afim de atingir o objetivo definido, são estabelecidas os questionamentos segui
 ## Método de avaliação
 Foi escolhido o método de entrevista para a avaliação do protótipo. Devido a restrições de tempo e impossibilidade de interação pessoal, será utilizada uma persona como alvo da mencionada entrevista.
 ## Questões práticas
-A **persona Alexandre Gomez** foi seleciona como alvo da entrevista, estudante de 20 anos que faz uso do site para procurar oportunidades de concursos.
+A **persona Júlia Kobayashi** foi seleciona como alvo da entrevista, estudante de 20 anos que faz uso do site para procurar oportunidades de concursos.
 ## Avaliação
-Seguindo o cenário de entrevista com a **persona** mencionada, o protótipo de papel é apresentado à persona Alexandre, a qual é requisitada que realize a tarefa "Visualizar Concursos" através do referido protótipo. O avaliador conduz as mudanças de telas e, ao final do teste, realiza uma pequena entrevista.  
+Seguindo o cenário de entrevista com a **persona** mencionada, o protótipo de papel é apresentado à persona Alexandre, a qual é requisitada que realize a tarefa "Visualizar Cargos e Remuneração" através do referido protótipo. O avaliador conduz as mudanças de telas e, ao final do teste, realiza uma pequena entrevista.  
 O resultado da entrevista entá transcrito a seguir.
 
 | Avaliador | Entrevistado |
