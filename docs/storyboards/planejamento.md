@@ -21,8 +21,8 @@
 
 <p align = "justify">A seguir, são  apresentados o planejamento e a avaliação de cada um dos storyboards desenvolvidos:</p>
 
-- <p><a href="../storyboard_1">Avaliação do Storyboard: Acessar Últimos Convocados de concurso</a></p>
-- <p><a href="../storyboard_2">Avaliação do Storyboard: Obter informação sobre Remuneração de servidores e comissionados</a></p>
+- <p><a href="../storyboard_1_av_">Avaliação do Storyboard: Acessar Últimos Convocados de concurso</a></p>
+- <p><a href="../storyboard_2_av">Avaliação do Storyboard: Obter informação sobre Remuneração de servidores e comissionados</a></p>
 - <p><a href="../storyboard_3_av">Avaliação do Storyboard: Visualização de concursos e anteriores</a></p>
 
 

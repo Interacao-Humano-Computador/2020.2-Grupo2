@@ -1,5 +1,5 @@
 # Planejamento da avaliação do StoryBoard
-# Visualizar concursos
+# Acessar Últimos Convocados de concurso
 Documento de planejamento de avaliação desenvolvido com base no Framework DECIDE.
 ## Objetivos da avaliação
 Esse documento busca avaliar o storyboard responsável por descrever a tarefa "visualizar concursos".

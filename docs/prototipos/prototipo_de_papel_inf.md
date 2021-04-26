@@ -1,5 +1,6 @@
 # Protótipo de Papel: Informação sobre Remuneração
 
+O protótipo definido a seguir busca ilustrar a funcionalidade de "Visualizar Remuneração e Cargos" para o projeto do site do MPU.
 
 ![fig1](../assets/prototipos/prototipo_papel_2_1.jpg)
 *Figura 1: Tela inicial*
