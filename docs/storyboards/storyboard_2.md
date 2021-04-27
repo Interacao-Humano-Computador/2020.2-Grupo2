@@ -28,7 +28,7 @@ Acesso do usuário a documentos que trazem muitas informações.
 
 #### Tarefas que precisam ser implementadas:
 
-As informações nessa página devem ser organizadas de uma maneira mais clara e disponibilizadas para o usuário em um formato de texto mais acessível. É necessário também concertar links que apresentam algum tipo de erro ou não levam a lugar algum.
+As informações nessa página devem ser organizadas de uma maneira mais clara e disponibilizadas para o usuário em um formato de texto mais acessível. É necessário também consertar links que apresentam algum tipo de erro ou não levam a lugar algum.
 
 ![Story](../assets/storyboards/2.jpg)
 ##### autor: Iago Oliveira
