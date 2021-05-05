@@ -1,6 +1,6 @@
-# Avaliação do Protótipo de Papel
+# Avaliação do Protótipo de baixa
 ## Objetivos da avaliação
-Esse documento busca avaliar o protótipo de papel produzido referente à tarefa "Visualizar Cargos e Remuneração".
+Esse documento busca avaliar o protótipo de baixa produzido referente à tarefa "Visualizar Cargos e Remuneração".
 ## Perguntas a serem respondidas
 Para o objetivo definido ser alcançado, são estabelecidas os  seguintes questionamentos:
 
@@ -11,9 +11,9 @@ Para o objetivo definido ser alcançado, são estabelecidas os  seguintes questi
 ## Método de avaliação
 O método escolhido para a avaliação do protótipo foi o de entrevista. Devido as restrições de tempo e impossibilidade de interação pessoal, será utilizada uma persona como alvo desta entrevista.
 ## Questões práticas
-A **persona Alexandre Gomez** foi seleciona como alvo da entrevista, estudante de 20 anos que faz uso do site para procurar oportunidades de concursos.
+A **persona Júlia Kobayashi** foi seleciona como alvo da entrevista, funcionária pública de 27 anos que procura publicações e editais para atualização e relatórios internos do órgão que trabalha.
 ## Avaliação
-Seguindo o cenário de entrevista com a **persona** mencionada, o protótipo de papel é apresentado à persona Alexandre, a qual é requisitada que realize a tarefa "Visualizar Cargos e Remuneração" através do referido protótipo. O avaliador conduz a navegação entre os menus e, ao final do teste, realiza uma pequena entrevista.  
+Seguindo o cenário de entrevista com a **persona** mencionada, o protótipo de baixa é apresentado à persona Júlia, a qual é requisitada que realize a tarefa "Visualizar Cargos e Remuneração" através do referido protótipo. O avaliador conduz a navegação entre os menus e, ao final do teste, realiza uma pequena entrevista.  
 O resultado da entrevista entá transcrito a seguir.
 
 | Avaliador | Entrevistado |
@@ -24,7 +24,7 @@ O resultado da entrevista entá transcrito a seguir.
 
 
 ## Considerações Finais
-Após a avaliação realizada fica perceptível a melhora de navegação e organização do protótipo de papel, em relação ao site atual. É necessário reconsiderar o tipo de arquivo dos documentos, para uma melhor acessibilidade. E também consertar links que apresentam algum tipo de erro ou não levam a lugar algum, esse é um problema que pode causar grandes problemas na experiência do usuário.
+Após a avaliação realizada fica perceptível a melhora de navegação e organização do protótipo de baixa, em relação ao site atual. É necessário reconsiderar o tipo de arquivo dos documentos, para uma melhor acessibilidade. E também consertar links que apresentam algum tipo de erro ou não levam a lugar algum, esse é um problema que pode causar grandes problemas na experiência do usuário.
 
 ## Histório de Revisões
 

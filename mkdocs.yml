@@ -21,9 +21,12 @@ nav:
     - 3. Visualizar concursos: storyboards/storyboard_3.md
     - Planejamento dos Storyboards: storyboards/planejamento.md
   - Protótipos:
-    - Protótipos de Papel:
+    - Baixa-Fidelidade:
       - Visualizar Concursos:  prototipos/prototipo_papel_concursos.md
       - Visualizar Cargos e Remuneração:  prototipos/prototipo_de_papel_inf.md
+    - Alta-Fidelidade:
+      - Visualizar Concursos:  prototipos/prototipo_alta_concursos.md
+      - Visualizar Cargos e Remuneração:  prototipos/prototipo_de_alta_inf.md
     - Avaliação:
       - Visualizar Concursos:  prototipos/plan_prototipo_papel_concursos.md
       - Visualizar Cargos e Remuneração:  prototipos/plan_prototipo_papel_cargos.md
