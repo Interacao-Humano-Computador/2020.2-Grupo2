@@ -1,4 +1,4 @@
-# Avaliação do Protótipo de baixa
+# Avaliação do Protótipo de Baixa Fidelidade: Visualizar concursos
 ## Objetivos da avaliação
 Esse documento busca avaliar o protótipo de baixa produzido referente à tarefa "Visualizar Concursos".
 ## Perguntas a serem respondidas

@@ -1,4 +1,4 @@
-# Protótipo de Baixa: Visualizar concursos
+# Protótipo de Baixa Fidelidade: Visualizar concursos
 O protótipo definido a seguir busca ilustrar a funcionalidade de "Visualizar Concursos" para o projeto do site do MPU.
 
 ## Resultado
