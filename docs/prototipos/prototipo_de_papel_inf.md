@@ -1,4 +1,4 @@
-# Protótipo de Fidelidade: Informação sobre Remuneração
+# Protótipo de Baixa Fidelidade: Informação sobre Remuneração
 
 O protótipo definido a seguir busca ilustrar a funcionalidade de "Visualizar Remuneração e Cargos" para o projeto do site do MPU.
 
