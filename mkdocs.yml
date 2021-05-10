@@ -22,14 +22,21 @@ nav:
     - Planejamento dos Storyboards: storyboards/planejamento.md
   - Protótipos:
     - Baixa-Fidelidade:
+      - Desenvolvimento: prototipos/prototipo_baixa_intro.md
       - Visualizar Concursos:  prototipos/prototipo_papel_concursos.md
       - Visualizar Cargos e Remuneração:  prototipos/prototipo_de_papel_inf.md
     - Alta-Fidelidade:
+      - Desenvolvimento: prototipos/prototipo_alta_intro.md
       - Visualizar Concursos:  prototipos/prototipo_alta_concursos.md
       - Visualizar Cargos e Remuneração:  prototipos/prototipo_de_alta_inf.md
     - Avaliação:
-      - Visualizar Concursos:  prototipos/plan_prototipo_papel_concursos.md
-      - Visualizar Cargos e Remuneração:  prototipos/plan_prototipo_papel_cargos.md
+      - Baixa-Fidelidade:
+        - Visualizar Concursos:  prototipos/plan_prototipo_papel_concursos.md
+        - Visualizar Cargos e Remuneração:  prototipos/plan_prototipo_papel_cargos.md
+      # - Alta-Fidelidade: 
+        # - Visualizar Concursos:  prototipos/plan_prototipo_papel_concursos.md
+        # - Visualizar Cargos e Remuneração:  prototipos/plan_prototipo_papel_cargos.md
+      - Planejamento: prototipos/planejamento_alta.md
   - Apresentações: 
     - 05/03/2021: presentations/05_03_2021.md
     - 19/03/2021: presentations/19_03_2021.md
