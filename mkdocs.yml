@@ -33,9 +33,9 @@ nav:
       - Baixa-Fidelidade:
         - Visualizar Concursos:  prototipos/plan_prototipo_papel_concursos.md
         - Visualizar Cargos e Remuneração:  prototipos/plan_prototipo_papel_cargos.md
-      # - Alta-Fidelidade: 
-        # - Visualizar Concursos:  prototipos/plan_prototipo_papel_concursos.md
-        # - Visualizar Cargos e Remuneração:  prototipos/plan_prototipo_papel_cargos.md
+      - Alta-Fidelidade: 
+        - Visualizar Concursos:  prototipos/plan_prototipo_alta_concursos.md
+        - Visualizar Cargos e Remuneração:  prototipos/plan_prototipo_alta_cargos.md
       - Planejamento: prototipos/planejamento_alta.md
   - Apresentações: 
     - 05/03/2021: presentations/05_03_2021.md

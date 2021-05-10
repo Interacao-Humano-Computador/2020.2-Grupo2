@@ -1,6 +1,6 @@
 # Avaliação do Protótipo de Baixa Fidelidade: Visualizar cargos e remuneração
 ## Objetivos da avaliação
-Esse documento busca avaliar o protótipo de baixa produzido referente à tarefa "Visualizar Cargos e Remuneração".
+Esse documento busca avaliar o protótipo de baixa fidelidade produzido referente à tarefa "Visualizar Cargos e Remuneração".
 ## Perguntas a serem respondidas
 Para o objetivo definido ser alcançado, são estabelecidas os  seguintes questionamentos:
 
