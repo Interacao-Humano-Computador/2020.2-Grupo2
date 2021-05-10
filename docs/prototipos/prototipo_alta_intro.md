@@ -20,8 +20,8 @@
 
 <p align = "justify">A seguir, estão apresentadas as avaliações realizadas em cada um dos prototipos de alta fidelidade desenvolvidos:</p>
 
-- <p><a href="../">Avaliação do Protótipo de Alta Fidelidade: Visualizar concursos</a></p>
-- <p><a href="../">Avaliação do Protótipo de Alta Fidelidade: Visualizar cargos e remuneraçãoo</a></p>
+- <p><a href="../plan_prototipo_alta_concursos">Avaliação do Protótipo de Alta Fidelidade: Visualizar concursos</a></p>
+- <p><a href="../plan_prototipo_alta_cargos">Avaliação do Protótipo de Alta Fidelidade: Visualizar cargos e remuneraçãoo</a></p>
 
 ## Histórico de Revisões
 
